@@ -26,6 +26,7 @@ public class StatsChecker {
                         ((LEDAlert) iAlerter).ledGlows = true;
                     }
                 }
+                 break;
             }
         }
     }
